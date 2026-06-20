@@ -5,21 +5,29 @@
 ​Built-in File Management: No need for external apps. Edit your server.properties, manage your plugins folder, and organize your worlds directly inside PocketRunner.
 ​One-Tap Setup: Get your Bedrock server up and running in seconds.
 ​Performance Optimized: Designed to be lightweight so your phone doesn't lag while hosting.
+
 ​📥 Download Link
 ​Get the latest version of PocketRunner here:
+
 👉 Download PocketRunner APK
 (Also check the Pinned Comment for the direct link!)
+
 ​🛠️ Support & Community Feedback
 ​I am constantly working to make PocketRunner the best mobile server host. Your feedback is what makes this app better!
 ​Found a bug? Let me know in the comments!
+
 ​Want a new feature? Drop your ideas below.
+
 ​Need direct help? Email me at: liveguysyt@gmail.com
+
 ​❤️ Stay Updated!
 ​If you want to see new features, bug fixes, and tutorials on how to use the app, make sure to SUBSCRIBE and hit the bell icon! 🔔
 ​Thanks for watching and supporting PocketRunner!
 ​📌 Pinned Comment Template
 ​(Copy and paste this as your first comment and Pin it!)
-​📥 DOWNLOAD POCKETRUNNER HERE: https://www.mediafire.com/file/8t9hecg2gh9yabu/PocketRunner.apk/file
+
 ​Remember: You only need internet for the first install. After that, you can run your server OFFLINE anytime! 🚀
+
 ​Found a bug or want a specific feature added? Reply to this comment! 👇
+
 ​Would you like me to help you create a "Feature Roadmap" for the app description to show users what you are planning to add next?
